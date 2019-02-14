@@ -10,7 +10,8 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 
 /**
- * 拼音工具类mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ * 拼音工具类
+ * mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
  * @author ThinkGem
  */
 public class PinyinUtils {
